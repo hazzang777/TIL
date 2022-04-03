@@ -9,4 +9,5 @@
 
 ## JPA
 ---
-
+* JPA 시작
+    * [코틀린으로 JPA 시작할 시 주의할 점](https://github.com/hazzang777/TIL/blob/main/JPA/01_INTRO/01_start_JPA_kotlin.md)
