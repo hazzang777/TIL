@@ -28,6 +28,10 @@ interface MemberRepository : JpaRepository<Member, Long>
         println("memberRepository = ${memberRepository.javaClass}")
 ```
         출력 결과 ->    memberRepository = class com.sun.proxy.$Proxy117   
+
+* @Repository 어노테이션 생략 가능  
+  1. 콤퍼넌트 스캔을 스프링 데이터 JPA가 자동으로 처리해준다.
+  2. JPA 예외를 스프링 예외로 변환하는 과정도 자동으로 처리.        
     
 
 ## 2. 공통 인터페이스 분석
@@ -48,3 +52,7 @@ Repository <- CrudRepository <- PagingAndSortingRepository <- JpaRepository
 3. findById(ID) : 엔티티 조회 한다. EntityManager.find() 호출
 4. getOne(ID) : 엔티티를 프록시로 조회. EntityManager.getReference() 호출
 5. findAll(...) : 모든 엔티티 조회. 정렬 및 페이징 조건 파라미터로 사용 가능
+
+
+참조)  
+[실전! 스프링 데이터 JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84/dashboard)
