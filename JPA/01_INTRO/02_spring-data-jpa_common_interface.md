@@ -1,4 +1,4 @@
-# 02. Spring-data-jpa : 공통 인터페이스
+# 02. Spring-Data-Jpa : 공통 인터페이스
 
 ## INTRO
 * Spring data jpa 는 공통 JPA 인터페이스 기능을 제공한다.
