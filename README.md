@@ -1,4 +1,4 @@
-# Today I Learned - QUICK LINK
+# TIL - Quick Link
 
 
 ## Kotlin
