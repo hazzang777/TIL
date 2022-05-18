@@ -1,5 +1,4 @@
-# TIL - Quick Link
-
+# TIL WIKI
 
 ## Kotlin
 ---
