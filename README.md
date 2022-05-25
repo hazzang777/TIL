@@ -1,4 +1,4 @@
-# TIL WIKI
+# TIL 위키
 
 ## Java
 ---
