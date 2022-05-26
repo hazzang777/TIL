@@ -1,6 +1,6 @@
 # TIL 위키
 
-벨로그: [TIL VELOG](https://velog.io/@hazzang)
+벨로그: [hardy.TIL](https://velog.io/@hazzang)
 
 ## Java
 ---
