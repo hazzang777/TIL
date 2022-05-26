@@ -1,5 +1,7 @@
 # TIL 위키
 
+벨로그: [TIL VELOG](https://velog.io/@hazzang)
+
 ## Java
 ---
 * 객체지향 프로그래밍  
