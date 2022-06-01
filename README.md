@@ -6,6 +6,8 @@
 ---
 * 객체지향 프로그래밍  
     * [익명클래스](https://github.com/hazzang777/TIL/blob/main/JAVA/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/01_%EC%9D%B5%EB%AA%85%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+* TEST  
+    * [main() 메소드를 이용한 테스트의 문제점](https://github.com/hazzang777/TIL/blob/main/JAVA/TEST/01_main()%20%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
 
 ## Kotlin
 ---
