@@ -10,7 +10,8 @@
     * [인터페이스의 변화](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/02_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EB%B3%80%ED%99%94.md)
     * [스트림](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/03_%EC%8A%A4%ED%8A%B8%EB%A6%BC.md)
     * [Optional](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/04_Optional.md)
-    * [Date와 Time](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/05_Date%EC%99%80%20Time.md)    
+    * [Date와 Time](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/05_Date%EC%99%80%20Time.md)
+    * [CompletableFuture](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/06_CompletableFuture.md)    
 * TEST  
     * [main() 메소드를 이용한 테스트의 문제점](https://github.com/hazzang777/TIL/blob/main/JAVA/TEST/01_main()%20%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
 

@@ -1,5 +1,6 @@
 # CompletableFuture
-
+백기선님 `더 자바 로드맵`을 수강하며 정리한 내용 입니다.  
+글 밑에 참조에 강의 링크 있습니다.
 ## 자바 Concurrent 프로그래밍 소개
 
 - Concurrent 소프트웨어
@@ -564,3 +565,6 @@ public class App {
     }
 }
 ```
+
+Reference:
+[더 자바, Java 8 : 백기선](https://www.inflearn.com/course/the-java-java8/dashboard)
