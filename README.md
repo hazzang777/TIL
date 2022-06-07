@@ -20,7 +20,7 @@
     * [ETC](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/07_ETC.md)    
 * 자바 플레이그라운드 - with TDD, 클린 코드  
     * [main() 메소드를 이용한 테스트의 문제점](https://github.com/hazzang777/TIL/blob/main/JAVA/TEST/01_main()%20%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
-    * [준비운동](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%ED%94%8C%EB%A0%88%EC%9D%B4%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%20-%20with%20TDD%2C%20%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C/02_%EC%A4%80%EB%B9%84%EC%9A%B4%EB%8F%99.md)
+    * [클린코드 가이드 및 TDD 개념](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%ED%94%8C%EB%A0%88%EC%9D%B4%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%20-%20with%20TDD%2C%20%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C/02_%EC%A4%80%EB%B9%84%EC%9A%B4%EB%8F%99.md)
 
 ## Kotlin
 ---
