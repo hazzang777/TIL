@@ -10,14 +10,17 @@
     * [열거형(enums)](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%20Concept/03_%EC%97%B4%EA%B1%B0%ED%98%95(enums).md)
     * [예외처리 (exception handling)](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%20Concept/04_%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)  
   
-* 더 자바 - 백기선
-    * [함수형 인터페이스와 람다](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/01_%ED%95%A8%EC%88%98%ED%98%95%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80%20%EB%9E%8C%EB%8B%A4.md)
-    * [인터페이스의 변화](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/02_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EB%B3%80%ED%99%94.md)
-    * [스트림](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/03_%EC%8A%A4%ED%8A%B8%EB%A6%BC.md)
-    * [Optional](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/04_Optional.md)
-    * [Date와 Time](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/05_Date%EC%99%80%20Time.md)
-    * [CompletableFuture](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/06_CompletableFuture.md)
-    * [ETC](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/07_ETC.md)    
+* 더 나은 자바 개발자 되기 - 백기선
+    * 더 자바, 자바 8
+        * [함수형 인터페이스와 람다](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/01_%ED%95%A8%EC%88%98%ED%98%95%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80%20%EB%9E%8C%EB%8B%A4.md)
+        * [인터페이스의 변화](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/02_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EB%B3%80%ED%99%94.md)
+        * [스트림](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/03_%EC%8A%A4%ED%8A%B8%EB%A6%BC.md)
+        * [Optional](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/04_Optional.md)
+        * [Date와 Time](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/05_Date%EC%99%80%20Time.md)
+        * [CompletableFuture](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/06_CompletableFuture.md)
+        * [ETC](https://github.com/hazzang777/TIL/blob/main/JAVA/%EB%8D%94%20%EC%9E%90%EB%B0%94/07_ETC.md)  
+    * 더 자바, 코드를 조작하는 다양한 방법
+        * [JVM 이해하기]()        
 * 자바 플레이그라운드 - with TDD, 클린 코드  
     * [main() 메소드를 이용한 테스트의 문제점](https://github.com/hazzang777/TIL/blob/main/JAVA/TEST/01_main()%20%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
     * [클린코드 가이드 및 TDD 개념](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%ED%94%8C%EB%A0%88%EC%9D%B4%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%20-%20with%20TDD%2C%20%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C/02_%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%EB%B0%8F%20TDD%20%EA%B0%9C%EB%85%90.md)
