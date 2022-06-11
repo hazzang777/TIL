@@ -22,7 +22,8 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
     * 더 자바, 코드를 조작하는 다양한 방법
         * [JVM 이해하기](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%A1%B0%EC%9E%91%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EB%B2%95/01_JVM%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
         * [바이트코드 조작](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%A1%B0%EC%9E%91%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EB%B2%95/02_%EB%B0%94%EC%9D%B4%ED%8A%B8%EC%BD%94%EB%93%9C%20%EC%A1%B0%EC%9E%91.md)
-        * [리플렉션](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%A1%B0%EC%9E%91%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EB%B2%95/03_%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98.md)        
+        * [리플렉션](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%A1%B0%EC%9E%91%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EB%B2%95/03_%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98.md)
+        * [다이나믹 프록시](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%A1%B0%EC%9E%91%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EB%B2%95/04_%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9D%EC%8B%9C.md)        
 * 자바 플레이그라운드 - with TDD, 클린 코드  
     * [main() 메소드를 이용한 테스트의 문제점](https://github.com/hazzang777/TIL/blob/main/JAVA/TEST/01_main()%20%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
     * [클린코드 가이드 및 TDD 개념](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%ED%94%8C%EB%A0%88%EC%9D%B4%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%20-%20with%20TDD%2C%20%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C/02_%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%EB%B0%8F%20TDD%20%EA%B0%9C%EB%85%90.md)
