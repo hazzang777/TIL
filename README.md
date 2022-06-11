@@ -1,6 +1,6 @@
 # TIL 위키
 ---
-[Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
+Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
 
 ## Java
 ---
