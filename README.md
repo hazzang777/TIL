@@ -5,7 +5,7 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
 ## Java
 ---
 * 자바 Concept 
-    * [익명클래스](https://github.com/hazzang777/TIL/blob/main/JAVA/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/01_%EC%9D%B5%EB%AA%85%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+    * [익명클래스](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%20Concept/01_%EC%9D%B5%EB%AA%85%ED%81%B4%EB%9E%98%EC%8A%A4.md)
     * [지네릭스](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%20Concept/02_%EC%A7%80%EB%84%A4%EB%A6%AD%EC%8A%A4.md)
     * [열거형(enums)](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%20Concept/03_%EC%97%B4%EA%B1%B0%ED%98%95(enums).md)
     * [예외처리 (exception handling)](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%20Concept/04_%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)  
