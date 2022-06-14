@@ -40,10 +40,10 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
         * [코틀린에서 타입을 다루는 방법](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/03_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%20type%EC%9D%84%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
         * [코틀린에서 연산자를 다루는 방법](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/04_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%20%EC%97%B0%EC%82%B0%EC%9E%90%EB%A5%BC%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
     * 코틀린에서 코드를 제어하는 방법  
-        * [코틀린에서 제어문을 다루는 방법]()
-        * [코틀린에서 반복문을 다루는 방법]()
-        * [코틀린에서 예외를 다루는 방법]()
-        * [코틀린에서 함수를 다루는 방법]()
+        * [코틀린에서 제어문을 다루는 방법](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/05_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%20%EC%A0%9C%EC%96%B4%EB%AC%B8%EC%9D%84%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+        * [코틀린에서 반복문을 다루는 방법](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/06_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%20%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9D%84%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+        * [코틀린에서 예외를 다루는 방법](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/07_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%20%EC%98%88%EC%99%B8%EB%A5%BC%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+        * [코틀린에서 함수를 다루는 방법](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/08_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 
 
 ## JPA
