@@ -32,7 +32,13 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
 ## Kotlin
 ---
 * 함수  
-    * [파라미터, 오버로딩, 디폴트 파라미터, vararg](https://github.com/hazzang777/TIL/blob/main/Kotlin/01_function/basic_function.md)  
+    * [파라미터, 오버로딩, 디폴트 파라미터, vararg](https://github.com/hazzang777/TIL/blob/main/Kotlin/01_function/basic_function.md)
+* 자바 개발자를 위한 코틀린 입문 - 최태현 (인프런)
+    * 코틀린에서 변수와 타입, 연산자를 다루는 방법  
+        * [코틀린에서 변수 다루는 방법]()
+        * [코틀린에서 null 다루는 방법]()
+        * [코틀린에서 타입을 다루는 방법]()
+        * [코틀린에서 연산자를 다루는 방법]()
 
 
 ## JPA
