@@ -46,6 +46,9 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
         * [코틀린에서 함수를 다루는 방법](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/08_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
     * 코틀린에서의 OOP  
         * [코틀린에서 클래스를 다루는 방법](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/09_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+        * [코틀린에서 상속을 다루는 방법](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/10_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%20%EC%83%81%EC%86%8D%EC%9D%84%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+        * [코틀린에서 접근 제어를 다루는 방법](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/11_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%20%EC%A0%91%EA%B7%BC%20%EC%A0%9C%EC%96%B4%EB%A5%BC%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+        * [코틀린에서 object 키워드를 다루는 방법](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/12_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%20object%20%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A5%BC%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 
 
 ## JPA
