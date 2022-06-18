@@ -56,6 +56,9 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
         * [코틀린에서 다양한 함수를 다루는 방법](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/16_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%20%EB%8B%A4%EC%96%91%ED%95%9C%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
         * [코틀린에서 람다를 다루는 방법](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/17_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%20%EB%9E%8C%EB%8B%A4%EB%A5%BC%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
         * [코틀린에서 컬렉션을 함수형으로 다루는 방법](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/18_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%20%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%84%20%ED%95%A8%EC%88%98%ED%98%95%EC%9C%BC%EB%A1%9C%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+    * 추가적으로 알아두어야 할 코틀린 특성  
+        * [코틀린의 이모저모](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/19_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98%20%EC%9D%B4%EB%AA%A8%EC%A0%80%EB%AA%A8.md)
+        * [코틀린의 scope function](https://github.com/hazzang777/TIL/blob/main/Kotlin/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9E%85%EB%AC%B8/20_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98%20scope%20function.md)
 
 
 ## JPA
