@@ -86,3 +86,4 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
 
 * 리팩터링 (진행중)
     * [이해하기힘든 이름](https://github.com/hazzang777/TIL/blob/main/CS/refactoring-%EB%B0%B1%EA%B8%B0%EC%84%A0/01_%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0%ED%9E%98%EB%93%A0%EC%9D%B4%EB%A6%84.md)
+    * [중복코드]()
