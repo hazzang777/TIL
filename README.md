@@ -90,3 +90,7 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
     * [긴 함수]()
 
 * 디자인패턴 (진행중)
+    * 생성 패턴
+        * [싱글톤 패턴](https://github.com/hazzang777/TIL/blob/main/CS/designpattern/01_%EC%8B%B1%EA%B8%80%ED%86%A4%ED%8C%A8%ED%84%B4.md)
+        * [팩토리 메소드 패턴](https://github.com/hazzang777/TIL/blob/main/CS/designpattern/02_%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EB%A9%94%EC%86%8C%EB%93%9C%20%ED%8C%A8%ED%84%B4.md)
+        * [추상 팩토리 패턴](https://github.com/hazzang777/TIL/blob/main/CS/designpattern/03_%EC%B6%94%EC%83%81%20%ED%8C%A9%ED%86%A0%EB%A6%AC%20%ED%8C%A8%ED%84%B4.md) 
