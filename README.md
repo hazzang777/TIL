@@ -6,7 +6,7 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
 ---
 * 모던 자바 인 액션 (진행중)
     * [자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가?](https://github.com/hazzang777/TIL/blob/main/Book/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%9D%B8%EC%95%A1%EC%85%98/01_%EC%9E%90%EB%B0%94%208%2C%209%2C%2010%2C%2011%20:%20%EB%AC%B4%EC%8A%A8%20%EC%9D%BC%EC%9D%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80%3F.md)
-    * [동작 파라미터화 코드 전달하기]()
+    * [동작 파라미터화 코드 전달하기](https://github.com/hazzang777/TIL/blob/main/Book/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%9D%B8%EC%95%A1%EC%85%98/02_%EB%8F%99%EC%9E%91%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94%20%EC%BD%94%EB%93%9C%20%EC%A0%84%EB%8B%AC%ED%95%98%EA%B8%B0.md)
 * 자바 Concept 
     * [익명클래스](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%20Concept/01_%EC%9D%B5%EB%AA%85%ED%81%B4%EB%9E%98%EC%8A%A4.md)
     * [지네릭스](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%20Concept/02_%EC%A7%80%EB%84%A4%EB%A6%AD%EC%8A%A4.md)
