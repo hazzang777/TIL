@@ -98,4 +98,5 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
         * [빌더패턴](https://github.com/hazzang777/TIL/blob/main/CS/designpattern/04_%EB%B9%8C%EB%8D%94%ED%8C%A8%ED%84%B4.md)
         * [프로토타입 패턴](https://github.com/hazzang777/TIL/blob/main/CS/designpattern/05_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%20%ED%8C%A8%ED%84%B4.md)
     * 구조 패턴
-        * [어댑터 패턴](https://github.com/hazzang777/TIL/blob/main/CS/designpattern/06_%EC%96%B4%EB%8C%91%ED%84%B0%20%ED%8C%A8%ED%84%B4.md)  
+        * [어댑터 패턴](https://github.com/hazzang777/TIL/blob/main/CS/designpattern/06_%EC%96%B4%EB%8C%91%ED%84%B0%20%ED%8C%A8%ED%84%B4.md)
+        * [브릿지 패턴](https://github.com/hazzang777/TIL/blob/main/CS/designpattern/07_%EB%B8%8C%EB%A6%BF%EC%A7%80%20%ED%8C%A8%ED%84%B4.md)  
