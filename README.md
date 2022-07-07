@@ -104,3 +104,7 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
         * [어댑터 패턴](https://github.com/hazzang777/TIL/blob/main/CS/designpattern/06_%EC%96%B4%EB%8C%91%ED%84%B0%20%ED%8C%A8%ED%84%B4.md)
         * [브릿지 패턴](https://github.com/hazzang777/TIL/blob/main/CS/designpattern/07_%EB%B8%8C%EB%A6%BF%EC%A7%80%20%ED%8C%A8%ED%84%B4.md) 
         * [컴포짓 패턴]()
+
+* HTTP
+    * 그림으로 배우는 Http와 Network Basic
+        * [웹과 네트워크의 기본](https://github.com/hazzang777/TIL/blob/main/Book/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20HTTP%20NETWORK%20BASIC/01_%EC%9B%B9%EA%B3%BC%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EB%B3%B8%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90.md)
