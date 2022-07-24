@@ -92,12 +92,12 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
     * [ch06 - 객체 지도 PART 2](https://github.com/hazzang777/TIL/blob/main/Book/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%EC%82%AC%EC%8B%A4%EA%B3%BC%EC%98%A4%ED%95%B4/08_%EA%B0%9D%EC%B2%B4%20%EC%A7%80%EB%8F%84%20PART%202.md)
     * [ch07 - 함께 모으기](https://github.com/hazzang777/TIL/blob/main/Book/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%EC%82%AC%EC%8B%A4%EA%B3%BC%EC%98%A4%ED%95%B4/09_%ED%95%A8%EA%BB%98%20%EB%AA%A8%EC%9C%BC%EA%B8%B0.md)
 
-* 리팩터링 (보류)
+* 리팩터링 (진행중)
     * [이해하기힘든 이름](https://github.com/hazzang777/TIL/blob/main/CS/refactoring-%EB%B0%B1%EA%B8%B0%EC%84%A0/01_%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0%ED%9E%98%EB%93%A0%EC%9D%B4%EB%A6%84.md)
     * [중복코드](https://github.com/hazzang777/TIL/blob/main/CS/refactoring-%EB%B0%B1%EA%B8%B0%EC%84%A0/02_%EC%A4%91%EB%B3%B5%EC%BD%94%EB%93%9C.md)
     * [긴 함수]()
 
-* 디자인패턴 (진행중)
+* 디자인패턴 
     * 생성 패턴
         * [싱글톤 패턴](https://github.com/hazzang777/TIL/blob/main/CS/designpattern/01_%EC%8B%B1%EA%B8%80%ED%86%A4%ED%8C%A8%ED%84%B4.md)
         * [팩토리 메소드 패턴](https://github.com/hazzang777/TIL/blob/main/CS/designpattern/02_%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EB%A9%94%EC%86%8C%EB%93%9C%20%ED%8C%A8%ED%84%B4.md)
@@ -112,3 +112,6 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
 * HTTP
     * 그림으로 배우는 Http와 Network Basic
         * [웹과 네트워크의 기본](https://github.com/hazzang777/TIL/blob/main/Book/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20HTTP%20NETWORK%20BASIC/01_%EC%9B%B9%EA%B3%BC%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EB%B3%B8%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90.md)
+
+* 클린 코드
+    * [깨끗한 코드](https://github.com/hazzang777/TIL/blob/main/CS/cleancode/01_%EA%B9%A8%EB%81%97%ED%95%9C%20%EC%BD%94%EB%93%9C.md)      
