@@ -114,4 +114,5 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
         * [웹과 네트워크의 기본](https://github.com/hazzang777/TIL/blob/main/Book/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20HTTP%20NETWORK%20BASIC/01_%EC%9B%B9%EA%B3%BC%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EB%B3%B8%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90.md)
 
 * 클린 코드
-    * [깨끗한 코드](https://github.com/hazzang777/TIL/blob/main/CS/cleancode/01_%EA%B9%A8%EB%81%97%ED%95%9C%20%EC%BD%94%EB%93%9C.md)      
+    * [깨끗한 코드](https://github.com/hazzang777/TIL/blob/main/CS/cleancode/01_%EA%B9%A8%EB%81%97%ED%95%9C%20%EC%BD%94%EB%93%9C.md)
+    * [의미있는 이름](https://github.com/hazzang777/TIL/blob/main/CS/cleancode/02_%EC%9D%98%EB%AF%B8%EC%9E%88%EB%8A%94%20%EC%9D%B4%EB%A6%84.md)      
