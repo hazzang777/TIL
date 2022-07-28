@@ -115,4 +115,5 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
 
 * 클린 코드
     * [깨끗한 코드](https://github.com/hazzang777/TIL/blob/main/CS/cleancode/01_%EA%B9%A8%EB%81%97%ED%95%9C%20%EC%BD%94%EB%93%9C.md)
-    * [의미있는 이름](https://github.com/hazzang777/TIL/blob/main/CS/cleancode/02_%EC%9D%98%EB%AF%B8%EC%9E%88%EB%8A%94%20%EC%9D%B4%EB%A6%84.md)      
+    * [의미있는 이름](https://github.com/hazzang777/TIL/blob/main/CS/cleancode/02_%EC%9D%98%EB%AF%B8%EC%9E%88%EB%8A%94%20%EC%9D%B4%EB%A6%84.md)
+    * [함수](https://github.com/hazzang777/TIL/blob/main/CS/cleancode/03_%ED%95%A8%EC%88%98.md)      
