@@ -71,6 +71,9 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
 ---  
 * 스프링 핵심원리 - 고급편
     * [예제 만들기](https://github.com/hazzang777/TIL/blob/main/Spring/Spring-Advanced/01_%EC%98%88%EC%A0%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+
+* 알게된 것
+    * [DI 주입 방식과 순환 참조](https://github.com/hazzang777/TIL/blob/main/Spring/known/DI%20%EB%B0%A9%EC%8B%9D%EA%B3%BC%20%EC%88%9C%ED%99%98%EC%B0%B8%EC%A1%B0.md)
 ## JPA
 ---
 * JPA 시작
