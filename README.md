@@ -36,6 +36,9 @@ Blog: [Dev.Hardy Tistory](https://dev-hazzang.tistory.com/)
     * [main() 메소드를 이용한 테스트의 문제점](https://github.com/hazzang777/TIL/blob/main/JAVA/TEST/01_main()%20%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
     * [클린코드 가이드 및 TDD 개념](https://github.com/hazzang777/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%ED%94%8C%EB%A0%88%EC%9D%B4%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%20-%20with%20TDD%2C%20%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C/02_%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%EB%B0%8F%20TDD%20%EA%B0%9C%EB%85%90.md)
 
+* 알게된 것
+    * [자바 관련 날짜와 시간에 관련된 API](https://github.com/hazzang777/TIL/blob/main/JAVA/known/%EB%82%A0%EC%A7%9C%EC%99%80%20%EC%8B%9C%EA%B0%84API.md)
+
 ## Kotlin
 ---
 * 함수  
